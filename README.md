@@ -1,4 +1,4 @@
-# Stripe Payment App
+# Chat App
 
 Welcome to our Chat App – your ultimate solution for seamless one-to-one communication! Our app simplifies the messaging experience, allowing users to effortlessly connect with friends, family, and colleagues in real-time. With user-friendly features and a clean interface, our Chat App prioritizes simplicity and efficiency, making it easy to stay in touch with the people who matter most.
 
@@ -10,11 +10,11 @@ Welcome to our Chat App – your ultimate solution for seamless one-to-one commu
 ## Screenshots :
 
 <p>
-<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/75459989-c73a-4475-b96d-b97ca8db73b8" alt="Splash View" width="200"
-<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/327cf08f-e6ea-47f6-bc11-852c6811b6af" alt="Splash View" width="200"
-<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/d970d897-aa83-4cba-8cf6-eae8ab9df9ef" alt="Splash View" width="200"
-<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/a08b00fc-fd03-468c-aa7a-575ffbd355d9" alt="Splash View" width="200"
-<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/69d29c1d-a2d1-448a-ac5b-f69ce9070e33" alt="Splash View" width="200"
+<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/75459989-c73a-4475-b96d-b97ca8db73b8" alt="Splash View" width="200">
+<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/327cf08f-e6ea-47f6-bc11-852c6811b6af" alt="Splash View" width="200">
+<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/d970d897-aa83-4cba-8cf6-eae8ab9df9ef" alt="Splash View" width="200">
+<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/a08b00fc-fd03-468c-aa7a-575ffbd355d9" alt="Splash View" width="200">
+<img src="https://github.com/Harshdubey5/one-to-one-chat-app/assets/121623727/69d29c1d-a2d1-448a-ac5b-f69ce9070e33" alt="Splash View" width="200">
 </p>
 
 
